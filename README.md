@@ -1,1 +1,5 @@
-# drugs-vitamins-classification
+# Drugs & Vitamins Classification using Deep Convolutional Neural Networks and Transfer Learning
+
+The dataset used includes images of popular pharmaceutical drugs and vitamins in the Philippines. This is a notebook that aims to classify these images using CNN and transfer learning.
+
+**Important Note:** This notebook is not a part of a research study or peer-reviewed article that has been heavily reviewed and lawfully accepted by several medical institutions. The dataset was not reviewed by any Pharmaceutical authority or any practitioner that is knowledgeable with the field. The use of the dataset is encouraged for educational purposes only as it may impose ethical problems or may cause harm for others if improperly utilized. It is advised to not use this dataset for your own machine learning applications or services without prior peer-review by an expert in the field of medicine or any law making authority that is responsible for the ethical use of medical dataset. Please take this into consideration.
