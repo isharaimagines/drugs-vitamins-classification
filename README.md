@@ -47,4 +47,4 @@ weighted avg       0.84      0.84      0.84      2000
 
 ```
 
-<img src="" alt="">
+<img src="https://raw.githubusercontent.com/isharaimagines/drugs-vitamins-classification/refs/heads/main/confusion_matrix.png" alt="confusion_matrix">
