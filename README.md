@@ -27,23 +27,24 @@ The test dataset evaluates model performance, focusing on accuracy, which measur
 
 ## Plotting the Classification Reports and Confusion matrix
 
-``` bash
+``` yaml
               precision    recall  f1-score   support
 
-      Alaxan       0.79      0.86      0.82       202
-    Bactidol       0.83      0.85      0.84       201
-      Bioflu       0.89      0.87      0.88       175
-    Biogesic       0.74      0.77      0.75       211
-     DayZinc       0.82      0.87      0.84       208
-    Decolgen       0.91      0.90      0.90       192
-    Fish Oil       0.90      0.85      0.88       212
-    Kremil S       0.81      0.76      0.78       186
-     Medicol       0.94      0.95      0.94       209
-      Neozep       0.83      0.76      0.79       204
+      Alaxan       0.86      0.88      0.87       1200
+    Bactidol       0.87      0.86      0.86       1200
+      Bioflu       0.90      0.89      0.89       1200
+    Biogesic       0.82      0.80      0.81       1200
+     DayZinc       0.88      0.89      0.88       1200
+    Decolgen       0.92      0.91      0.91       1200
+    Fish Oil       0.89      0.87      0.88       1200
+    Kremil S       0.83      0.81      0.82       1200
+     Medicol       0.95      0.94      0.94       1200
+      Neozep       0.84      0.82      0.83       1200
 
-    accuracy                           0.84      2000
-   macro avg       0.85      0.84      0.84      2000
-weighted avg       0.84      0.84      0.84      2000
+    accuracy                           0.87     12000
+   macro avg       0.88      0.87      0.87     12000
+weighted avg       0.88      0.87      0.87     12000
+
 
 ```
 
