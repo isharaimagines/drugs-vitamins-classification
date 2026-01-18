@@ -28,7 +28,7 @@ The test dataset evaluates model performance, focusing on accuracy, which measur
 ## Plotting the Classification Reports and Confusion matrix
 
 ``` yaml
-              precision    recall  f1-score   support
+                precision   recall   f1-score   support
 
  Paracetamol       0.86      0.88      0.87       1200
    Ibuprofen       0.87      0.86      0.86       1200
@@ -49,4 +49,4 @@ weighted avg       0.88      0.87      0.87     12000
 
 ```
 
-<img src="https://raw.githubusercontent.com/isharaimagines/drugs-vitamins-classification/refs/heads/main/confusion_matrix.png" alt="confusion_matrix">
+<img src="https://raw.githubusercontent.com/isharaimagines/drugs-vitamins-classification/refs/heads/main/Figure_2.png" alt="confusion_matrix">
