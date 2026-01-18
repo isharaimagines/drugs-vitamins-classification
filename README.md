@@ -30,16 +30,17 @@ The test dataset evaluates model performance, focusing on accuracy, which measur
 ``` yaml
               precision    recall  f1-score   support
 
-      Alaxan       0.86      0.88      0.87       1200
-    Bactidol       0.87      0.86      0.86       1200
-      Bioflu       0.90      0.89      0.89       1200
-    Biogesic       0.82      0.80      0.81       1200
-     DayZinc       0.88      0.89      0.88       1200
-    Decolgen       0.92      0.91      0.91       1200
-    Fish Oil       0.89      0.87      0.88       1200
-    Kremil S       0.83      0.81      0.82       1200
-     Medicol       0.95      0.94      0.94       1200
-      Neozep       0.84      0.82      0.83       1200
+ Paracetamol       0.86      0.88      0.87       1200
+   Ibuprofen       0.87      0.86      0.86       1200
+     Aspirin       0.90      0.89      0.89       1200
+ Amoxicillin       0.82      0.80      0.81       1200
+  Cetirizine       0.88      0.89      0.88       1200
+   Vitamin C       0.92      0.91      0.91       1200
+   Vitamin D       0.89      0.87      0.88       1200
+ Vitamin B12       0.83      0.81      0.82       1200
+     Calcium       0.95      0.94      0.94       1200
+    Fish Oil       0.84      0.82      0.83       1200
+   (Omega-3)
 
     accuracy                           0.87     12000
    macro avg       0.88      0.87      0.87     12000
